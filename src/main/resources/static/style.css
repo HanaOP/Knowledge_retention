@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; max-width: 600px; margin: 20px auto; }
+input, select, button { padding: 8px; margin: 5px 0; width: 100%; max-width: 300px; }
+button { width: 150px; }
+ul { list-style-type: none; padding-left: 0; }
+li { background: #f0f0f0; padding: 10px; margin-bottom: 5px; }
+h1, h2 { color: #333; }
